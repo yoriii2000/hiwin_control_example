@@ -1,0 +1,2 @@
+﻿  hiwin_control_example.cpp
+C:\Users\User\Desktop\hiwin_control_example\hiwin_control_example.cpp(7,10): fatal error C1083: 無法開啟包含檔案: 'HRSDK.h': No such file or directory
